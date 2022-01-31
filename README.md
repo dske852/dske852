@@ -1,4 +1,4 @@
-
+Student of Data Science & Marketing Analytics at Erasmus University Rotterdam
 
 
 <!---
